@@ -12,7 +12,7 @@
 -----
 
 ```diff
-👤・14 Years.
+🖤・14 Years.
 🤖・Criador da Voxa (BOT Discord)
 ```
 
