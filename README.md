@@ -27,7 +27,7 @@
 
 -----
 
-<h1 align="center">STATS FOR NERDS</h1>
+<h1 align="center">Status</h1>
 <p align="center">
   <img src="https://img.shields.io/github/followers/BigDalZs?style=social">
   <img src="https://img.shields.io/github/stars/BigDalZs?style=social">
