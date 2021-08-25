@@ -5,7 +5,7 @@
   <a href="https://discord.gg/">Discord</a> |
   <a href="https://github.com/BigDalZs">Github</a>
   <br><br>
-  <img src="https://i.pinimg.com/originals/6a/c0/09/6ac009cded7368610e95c150d5992aae.gif">
+  <img src="http://38.media.tumblr.com/3a9dd6a53c8780fb3a0504e645643bed/tumblr_ngqesvUoJT1rv6v1wo1_400.gif">
   <br><br>
 </p>
 
