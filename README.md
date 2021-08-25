@@ -13,7 +13,7 @@
 
 ```diff
 👤 >> 14 Anos.
-🍭 >> Criador da Voxa (BOT Discord)
+🤖 >> Criador da Voxa (BOT Discord)
 ```
 
 -----
