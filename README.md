@@ -1,7 +1,7 @@
-<h1 align="center">💀 Welcome to the end of the world. 💀</h1>
+<h1 align="center">Welcome to the end of the world.</h1>
 
 <p align="center">
-  <b>🐼 Rede Sociais:</b><br>
+  <b>👻 Rede Sociais:</b><br>
   <a href="https://discord.gg/">Discord</a> |
   <a href="https://github.com/BigDalZs">Github</a>
   <br><br>
