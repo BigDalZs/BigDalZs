@@ -13,7 +13,7 @@
 
 ```diff
 🖤・14 Years.
-🤖・Criador da Voxa (BOT Discord)
+🍇・Criador da HazeStore
 ```
 
 -----
