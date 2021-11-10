@@ -13,7 +13,7 @@
 
 ```diff
 🖤・14 Years.
-🍇・Criador da HazeStore
+🍇・Criador da Haze Services
 ```
 
 -----
